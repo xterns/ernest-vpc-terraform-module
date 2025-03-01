@@ -1,0 +1,5 @@
+aws_profile = "nonprod"
+cidr_block  = "10.0.0.0/16"
+environment = "sandbox"
+pod_name    = "xterns-pod-a-jan-2025"
+vpc_name    = "devops-podA-sandbox-vpc"
